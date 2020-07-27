@@ -22,6 +22,3 @@ export const getCurrentStoryId = state => state.stories.currentStoryId;
 
 export const getIsStoryFetching = state => state.stories.isItemFetching;
 
-export const getIsStoryUpdating = state => state.stories.isItemUpdating;
-
-export const getIsStoryDeleting = state => state.stories.isItemDeleting;
